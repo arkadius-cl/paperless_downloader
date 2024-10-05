@@ -1,6 +1,6 @@
-# Paperless downloader
+# Paperless document downloader
 
-This tool should help with downloading all files stored in paperless.
+This tool should help with downloading documents stored in paperless.
 
 To install dependencies:
 
@@ -8,7 +8,7 @@ To install dependencies:
 bun install
 ```
 
-To download all Documents:
+To download all documents:
 
 ```bash
 bun run downloader.js --url YOU_PAPERLESS_URL --token HERE_YOU_PAPERLESS_TOKEN
